@@ -1,0 +1,9 @@
+channels:
+  - defaults
+dependencies:
+  - python==3.10
+  - pip
+  - pip:
+    - --extra-index-url "https://github.com/ejones18/ej-pandas" 
+    - "git+https://github.com/ejones18/ej-pandas"
+name: ej-pandas-test
