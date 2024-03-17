@@ -6,4 +6,6 @@ Aim of this repository: Empower and educate on the capabilities, features and th
 
 * Custom Azure ML environment creation including a private Python package dependency hosted via a GitHub repository,
 * End-2-end pipeline for model training, model registering & deployment including safe rollout for managed online endpoints,
+* GPU distributed training using PyTorch,
+* Integrating an R script as a component in a pipeline,
 * MLOps using Azure DevOps and Azure Machine Learning
