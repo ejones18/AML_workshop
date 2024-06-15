@@ -11,7 +11,7 @@ Aim of this repository: Empower and educate on the capabilities, features and th
 * Registering datastores programmatically,
 * Responsible AI dashboard example
 
-  Misc content includes:
+#### Misc content includes:
 * R script as a componetnt in a pipeline,
 * Creating a custom environment with a private GitHub package,
 * Many models at scale
