@@ -8,7 +8,7 @@ Aim of this repository: Empower and educate on the capabilities, features and th
 * GPU distributed training using PyTorch,
 * Hyper-parameter sweep using the Azure ML SDK v2,
 * MLOps using Azure DevOps and Azure Machine Learning,
-* Registering datastores programmatically,
+* Registering datastores programmatically including the new external data conenections (i.e. to Snowflake),
 * Responsible AI dashboard example
 
 #### Misc content includes:
